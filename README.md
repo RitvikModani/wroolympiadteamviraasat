@@ -115,11 +115,6 @@ Heritage Guardian creates impact across five dimensions:
 
 ---
 
-## 📄 Project Report
-
-The full WRO project report is included in this repository:
-> 📎 `Heritage_Guardian_Final.docx`
-
 
 ## 📜 License
 
