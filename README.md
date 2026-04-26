@@ -120,31 +120,6 @@ Heritage Guardian creates impact across five dimensions:
 The full WRO project report is included in this repository:
 > 📎 `Heritage_Guardian_Final.docx`
 
----
-
-## 📁 Repository Structure
-
-```
-Heritage-Guardian/
-│
-├── README.md
-├── Heritage_Guardian_Final.docx
-│
-├── robot_code/
-│   ├── line_follower.ino
-│   ├── obstacle_detection.ino
-│   ├── vandalism_alert.ino
-│   ├── parking_system.ino
-│   └── ultrasonic_fence.ino
-│
-├── web_platform/
-│   └── (AI experience website files)
-│
-└── hardware/
-    └── circuit_diagram.png
-```
-
----
 
 ## 📜 License
 
