@@ -1,0 +1,1 @@
+a integrated syatem that uses esp32 cam to prevent vandalism at monuments, by recognising vandalism, saving the face of person, checking face at exit, not opening the exit gate if the person vandalised, triggers the buzzer.
